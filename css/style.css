@@ -375,7 +375,7 @@ ol.type li a:hover {
 /* Quote Section */
 #quote-call {
 	color: #fff;
-	background: #444 url(../img/Background.jpg) center center no-repeat fixed;
+	background: linear-gradient(rgba(0, 0, 0, 0.22), rgba(0, 0, 0, 0.22)), url(../img/Background.jpg) center center no-repeat fixed;
 	background-size: cover;
 }
 #quote-call .overlay {
