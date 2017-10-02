@@ -152,7 +152,7 @@ hr {
 	background-color: #fff;
 }
 .div-about {
-	margin: 70px 0;
+	margin: 75px 0;
 }
 .btn-red {
 	border-color: #a70e12;
@@ -237,8 +237,8 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	margin-bottom: 40px;
 }
 header .intro-text {
-	padding-top: 275px;
-	padding-bottom: 250px;
+	padding-top: 300px;
+	padding-bottom: 300px;
 	text-align: center;
 }
 .header-line-effect {
@@ -273,7 +273,7 @@ header .intro-text {
 }
 /* About Section */
 #about {
-	padding: 90px 0 120px 0;
+	padding: 100px 0 140px 0;
 	background: #f6f6f6;
 }
 #about h3 {
@@ -301,7 +301,7 @@ header .intro-text {
 }
 /* Portfolio Section */
 #portfolio {
-	padding: 60px 0 100px 0;
+	padding: 105px 0 100px 0;
 	background: #fff;
 }
 .categories {
@@ -416,7 +416,7 @@ ol.type li a:hover {
 	background-size: cover;
 }
 #quote-call .overlay {
-	padding: 110px 0;
+	padding: 150px 0;
 }
 #quote-call h2 {
 	color: #fff;
